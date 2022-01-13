@@ -1,0 +1,37 @@
+body {
+}
+
+#nav-bar{
+    display: flex;
+    justify-content: flex-end;
+    align-items: stretch;
+}
+
+#header{
+    display: flex;
+    flex-direction: row;
+    left: 0;
+    position:fixed;
+    top: 0;
+    width: 100%;
+}
+
+#header-img{
+    height: 35px;
+    width: 300px;
+    margin-right: 200px;
+
+}
+
+.below-header-container{
+    margin-top: 100px;
+}
+
+.form-container{
+    margin-top: 150px;
+}
+
+.video-container {
+
+}
+
